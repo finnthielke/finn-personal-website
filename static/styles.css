@@ -1,0 +1,118 @@
+
+/* headings */
+
+#skills-heading {
+text-align: center;
+padding: 50px 0 0;
+font-size: 3.2rem;}
+
+#hobbies_heading {
+padding: 50px 0 40px;
+font-size: 3.2rem;}
+
+
+
+
+
+
+/* */
+body {
+font-family: 'Quicksand', sans-serif;
+margin: 0;}
+
+.title {
+font-family: 'Playfair Display', serif;
+color: white;
+font-size: 8rem;
+text-align: center;
+padding-bottom: 140px;
+padding-top: 50px;
+letter-spacing: 0px;
+
+
+}
+
+.top-div {
+padding: 200px 100px 180px;
+margin: 0;
+background-image: url('mt-cook3.jpg');
+background-size: cover; /* or contain depending on what you want */
+background-position: center center;
+background-repeat: no-repeat;
+}
+
+
+h2 {
+padding: 50px 0 30px;}
+
+.hobby-text {
+font-size: 1.5rem;
+padding: 0 30% 40px;}
+
+#interests {
+text-align: center;
+padding: 20px 0 50px;}
+
+.hobby-img {
+width: 120px;
+height: 120px;
+margin-bottom: 33px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+.colored-section {
+background-color: #A2D2FF;
+color: #fff;
+}
+
+.skill-card {
+text-align: center;}
+
+.card-title {
+font-size: 2rem;
+padding: 40px 0 15px;}
+
+.progress {
+width: 180px;
+margin-left:auto;
+margin-right:auto;
+
+}
+
+
+
+#skills {
+padding: 30px 130px 120px;}
+
+.card-text {
+padding: 30px 15px 30px;
+margin: 0;
+text-align: left;
+font-size: 1.1rem;}
+
+list-group {
+font-size: 3rem;
+}
+
+.row {
+padding-top: 80px;}
+
+.progress-bar {
+    background-color: black;
+}
+
+#links {
+font-family: 'Quicksand', sans-serif;
+font-weight: bold;
+text-align: center;
+padding: 50px 0 50px;
+font-size: 1.2rem;
+}
+
+.link-img {
+width: 50px;
+height: 50px;
+margin: 6px 10px 20px;
+}
